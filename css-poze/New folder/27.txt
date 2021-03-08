@@ -1,0 +1,45 @@
+Apple Watch SE, GPS, Carcasa Silver Aluminium 44mm, White Sport Band
+
+Specificatii
+
+CARACTERISTICI GENERALE
+
+Dimensiune carcasa (mm)	44
+Sistem de operare compatibil	iOS
+Brand compatibil	Apple
+Material curea/bratara	Silicon
+Culoare curea/bratara	Alb
+Material carcasa	Aluminiu
+
+SPECIFICATII TEHNICE
+
+Display	Digital
+Tip display	Retina display
+Dimensiune display	1.78 inch
+Stil display	Dreptunghi
+Conectivitate	Bluetooth
+NFC
+Wi-Fi
+Tip procesor	Dual core
+Capacitate stocare	32 GB
+Autonomie	18 h
+Tip incarcare	Magnetic
+
+FUNCTII
+
+Activitate monitorizata	Pasi
+Monitorizare ritm cardiac
+Apeluri
+Zgomot
+Functii	GPS
+Rezistenta la apa
+Compas
+Microfon
+Speaker
+SOS
+Fall detecion
+Senzori	Heart Rate Sensor
+Altimetru
+Accelerometru
+Lumina ambientala
+Giroscop

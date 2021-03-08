@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:100px;
+  }
+
+  .header {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    color: black; 
+  }
+
+  .header i {
+    font-size: 70px;
+    margin-right: 20px;
+  }
+
+  h1 {
+    padding: 30px;
+  }
+
+  .menu {
+    appearance: none;
+    font-size: 0;
+    width: 120px;
+    border: 0;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+  }
+
+    .bar {
+      display: block;
+      margin-right: 70%;
+      width: 80%;
+      height: 6px;
+      background: #000;
+      margin-bottom: 5px;
+      margin-left: 30px; 
+    }
+    
+
+  .box1 {
+    position: relative;
+    margin: 100px 600px;
+    width: 100px;
+    height:100px;
+    transform-style: preserve-3d;
+    animation: animate 20s linear infinite;
+  }
+
+  @keyframes animate {
+    0% {
+      transform: perspective(1000px) rotateY(0deg);
+    }
+    100% {
+      transform: perspective(1000px) rotateY(360deg);
+    }
+  }
+
+  .box1 span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 80%;
+    height: 100%;
+    transform-origin: center;
+    transform-style: preserve-3d;
+    transform: rotateY(calc(var(--i) * 45deg)) translateZ(400px);
+    -webkit-box-reflect: below 0px linear-gradient(transparent, transparent, #0004);
+  }
+
+  .box1 span img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  #footer {
+    position: fixed;
+    height: 80px;
+    background-color: white;
+    color: black;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    display:Flex;
+    align-items: center;
+}
+.social {
+    padding: 40PX 40px;
+    width: 200px;
+    margin-left: 320px;
+}
+.social ul {
+    height:150px;
+    color: aliceblue;
+    display: flex;
+    justify-content: flex-end;
+    width: 100px;
+}
+.social ul li {
+list-style: none;
+margin: 0 0 0 30px;
+}
+  .social ul li .fa {
+    transition: 3s;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+.social ul li a {
+    position: relative;
+    display: flex;
+    border-radius: 10%;
+}
+.social-btn i {
+    line-height: 90px;
+    font-size: 30px;
+    transition: 0.2s linear;
+}
+.social-btn:hover i {
+     transform: scale(1.3);
+     color: black;
+}
+.social-btn::before {
+    transform: rotate(45deg);
+}
+.social-btn:hover::before {
+    animation: social-icons 0.7s 1;
+    top: -10%;
+    left: -10%;
+}
+  @keyframes social-icons {
+      0%{
+          left: -110%;
+          top: 90%;
+      }
+      50%{
+          left: 10%;
+          top: -30%
+      }
+      100%{
+          top: -10%;
+          left: -10%;
+      }
+}
+.btn .subscribe {
+    margin-left: 0px ;
+}
+.social:hover {
+    cursor: pointer;
+    transition: linear;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  margin-top: 20px;
+  width: 60px;
+  height: 34px;
+}
+.switch input {
+  display: none;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #ccc;
+  border-radius: 34px;
+  transition: .4s;
+}
+
+.slider:before {
+  content: "";
+  position: absolute;
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background: #fff;
+  border-radius: 50%;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background: lightgreen;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+.dark-mode {
+  color: white;
+  background: #0b0a14;
+}
+
+.dark-mode h1 {
+  color: #f7f0e9;
+}
+  

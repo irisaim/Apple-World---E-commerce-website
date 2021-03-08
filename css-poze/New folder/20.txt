@@ -1,0 +1,49 @@
+Apple iPad Pro 12.9" (2020), 128GB, Wi-Fi, Space Grey
+
+Specificatii
+
+CARACTERISTICI GENERALE
+
+Conectivitate	Fara SIM
+Sistem de operare	iPadOS
+Inaltime	280.6 mm
+Latime	214.9 mm
+Grosime	5.9 mm
+Greutate	641 g
+Material	Aluminiu
+
+PROCESOR
+
+Producator procesor	Apple
+Model procesor	A12Z Bionic
+Numar nuclee	8
+Tehnologie procesor	7 nm
+Producator chipset video	Apple
+
+AFISARE
+
+Tehnologie display	Retina
+Diagonala display	12.9 inch
+Rezolutie	2732 x 2048
+
+STOCARE
+
+Capacitate stocare	128 GB
+
+CONECTIVITATE
+
+Versiune Bluetooth	5.0
+Wireless	Wi-Fi 802.11 a/b/g/n/ac/ax
+Porturi	1 X USB tip C
+
+ACUMULATOR
+
+Baterie detasabila	Nu
+Tip acumulator	Li-Polymer
+Autonomie baterie	10 h
+
+MULTIMEDIA
+
+Rezolutie camera principala	12 Mpx
+10 Mpx
+Rezolutie camera frontala	7 Mpx

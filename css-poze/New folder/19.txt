@@ -1,0 +1,63 @@
+Laptop Apple MacBook 12 cu procesor Intel® Dual Core™ M3 1.20GHz, 12", Ecran Retina, 8GB, 256GB SSD, Intel® HD Graphics 615, macOS Sierra, INT KB, Silver
+
+Specificatii
+
+PROCESOR
+
+Producator procesor	Intel®
+Tip procesor	Core m
+Arhitectura	Skylake
+Numar nuclee	2
+Frecventa nominala	1200 MHz
+Cache	4096 KB
+Tehnologie procesor	14 nm
+Procesor grafic integrat	Intel® HD Graphics 615
+
+AFISARE
+
+Diagonala display	12 inch
+Format display	HD
+Tehnologie display	Retina
+LCD LED
+Rezolutie	2304 x 1440
+
+MEMORIE
+
+Capacitate memorie	8 GB
+Tip memorie	LPDDR3
+
+HARD DISK
+
+Tip stocare	SSD
+Capacitate SSD	256 GB
+Interfata SSD	PCI Express
+PLACA VIDEO
+
+Tip placa video	Integrata
+Chipset video	Intel HD
+
+MULTIMEDIA
+
+Unitate optica	Nu
+Camera WEB	HD
+Audio	Difuzoare stereo
+Microfoane duale
+Tehnologii audio	Stereo
+
+CONECTIVITATE & PORTURI
+
+Porturi	1 x Jack 3.5 mm
+1 x USB type C
+Wireless	802.11 ac
+Versiune Bluetooth	4.0
+
+SOFTWARE
+
+Sistem de operare	Mac OS
+
+CARACTERISTICI GENERALE
+
+Tastatura numerica	Nu
+Dimensiuni (W x H x D)	280.5 x 3.5 - 13.1 x 196.5 mm
+Greutate	0.92 Kg
+Material	Aluminiu

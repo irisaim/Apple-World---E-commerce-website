@@ -1,0 +1,49 @@
+Apple iPad Pro 11" (2020), 256GB, Wi-Fi, Space Grey
+
+Specificatii
+
+CARACTERISTICI GENERALE
+
+Conectivitate	Fara SIM
+Sistem de operare	iPadOS
+Inaltime	247.6 mm
+Latime	178.5 mm
+Grosime	5.9 mm
+Greutate	471 g
+Material	Aluminiu
+
+PROCESOR
+
+Producator procesor	Apple
+Model procesor	A12Z Bionic
+Numar nuclee	8
+Tehnologie procesor	7 nm
+Producator chipset video	Apple
+
+AFISARE
+
+Tehnologie display	Retina
+Diagonala display	11 inch
+Rezolutie	2388 x 1668
+
+STOCARE
+
+Capacitate stocare	256 GB
+
+CONECTIVITATE
+
+Versiune Bluetooth	5.0
+Wireless	Wi-Fi 802.11 a/b/g/n/ac/ax
+Porturi	1 X USB tip C
+
+ACUMULATOR
+
+Baterie detasabila	Nu
+Tip acumulator	Li-Polymer
+Autonomie baterie	10 h
+
+MULTIMEDIA
+
+Rezolutie camera principala	12 Mpx
+10 Mpx
+Rezolutie camera frontala	7 Mpx

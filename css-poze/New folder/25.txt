@@ -1,0 +1,50 @@
+Apple Watch 6, GPS, Carcasa Space Gray Aluminium 44mm, Black Sport Band
+
+Specificatii
+
+CARACTERISTICI GENERALE
+
+Dimensiune carcasa (mm)	44
+Sistem de operare compatibil	iOS
+Brand compatibil	Apple
+Material curea/bratara	Silicon
+Culoare curea/bratara	Negru
+Material carcasa	Aluminiu
+
+SPECIFICATII TEHNICE
+
+Display	Digital
+Tip display	Always-On Retina
+Dimensiune display	1.78 inch
+Stil display	Dreptunghi
+Conectivitate	Bluetooth
+NFC
+Wi-Fi
+Tip procesor	Dual core
+Capacitate stocare	32 GB
+Autonomie	18 h
+Tip incarcare	Magnetic
+
+FUNCTII
+
+Activitate monitorizata	Pasi
+Monitorizare ritm cardiac
+Apeluri
+Monitorizare SPO2
+Zgomot
+Functii	GPS
+Rezistenta la apa
+Compas
+Microfon
+EKG
+Speaker
+SOS
+Citire oxigen din sange
+Fall detecion
+Senzori	Heart Rate Sensor
+Altimetru
+Accelerometru
+Lumina ambientala
+Giroscop
+Oxigen in sange
+EKG

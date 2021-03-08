@@ -1,0 +1,71 @@
+Laptop Apple MacBook Pro 16" Touch Bar, procesor Intel® Core™ i7 2.60 GHz, 16GB, 512GB SSD, Radeon Pro 5300M 4GB, Space Grey, INT KB
+
+Specificatii
+
+PROCESOR
+
+Producator procesor	Intel®
+Tip procesor	i7
+Arhitectura	Coffee Lake
+Numar nuclee	6
+Frecventa nominala	2.6 GHz
+Cache	12288 KB
+Frecventa Turbo Boost	4.5 GHz
+Tehnologie procesor	14 nm
+Procesor grafic integrat	Intel® UHD Graphics 630
+
+AFISARE
+
+Diagonala display	16 inch
+Tehnologie display	LED
+IPS
+Retina
+Rata de refresh	60 Hz
+Luminozitate	500 niti
+Rezolutie	3072 x 1920
+
+MEMORIE
+
+Capacitate memorie	16 GB
+Tip memorie	DDR4
+Frecventa	2666 MHz
+Memorie integrata	16384 MB
+
+HARD DISK
+
+Tip stocare	SSD
+Capacitate SSD	512 GB
+
+PLACA VIDEO
+
+Tip placa video	Dedicata
+Chipset video	AMD Radeon
+Model placa video	Pro 5300M
+Capacitate memorie video	4096 MB
+Tip memorie placa video	GDDR6
+
+MULTIMEDIA
+
+Camera WEB	HD
+Audio	Difuzoare stereo
+Trei microfoane
+
+CONECTIVITATE & PORTURI
+
+Porturi	4 x Thunderbolt v3
+1 x Audio Out/Microfon
+Wireless	802.11 ac
+Versiune Bluetooth	5.0
+
+SOFTWARE
+
+Sistem de operare	Mac OS
+
+CARACTERISTICI GENERALE
+
+Dimensiuni (W x H x D)	357.9 x 16.2 x 245.9 mm
+Greutate	2 Kg
+Securitate	Touch ID
+Accesorii incluse	Adaptor USB-C 96W
+Material	Aluminiu
+Autonomie baterie	11 h

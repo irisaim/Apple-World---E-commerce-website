@@ -1,0 +1,32 @@
+{
+  "name": "finalprojectjs",
+  "version": "1.0.0",
+  "description": "Final Project | Apple World - Online Ecommerce ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irisaim/FinalProjectJS.git"
+  },
+  "keywords": [
+    "FRONTEND",
+    "|",
+    "SCOALA",
+    "INFORMALA",
+    "|",
+    "HTML",
+    "|",
+    "CSS",
+    "|",
+    "JS",
+    "|"
+  ],
+  "author": "Irina Saim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irisaim/FinalProjectJS/issues"
+  },
+  "homepage": "https://github.com/irisaim/FinalProjectJS#readme"
+}

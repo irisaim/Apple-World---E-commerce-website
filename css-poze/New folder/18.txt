@@ -1,0 +1,64 @@
+Laptop Apple MacBook Air 13 cu procesor Intel® Dual Core™ i5 1.80GHz, 13.3", 8GB, 128GB SSD, Intel® HD Graphics 6000, INT KB, Silver
+
+Specificatii
+
+PROCESOR
+
+Producator procesor	Intel®
+Tip procesor	i5
+Numar nuclee	2
+Frecventa nominala	1800 MHz
+Cache	3072 KB
+Frecventa Turbo Boost	2900 MHz
+Procesor grafic integrat	Intel® HD Graphics 6000
+
+AFISARE
+
+Diagonala display	13.3 inch
+Format display	WXGA+
+Tehnologie display	LCD LED
+Finisaj display	Glossy
+Rezolutie	1440 x 900
+
+MEMORIE
+
+Capacitate memorie	8 GB
+Tip memorie	LPDDR3
+Frecventa	1600 MHz
+
+HARD DISK
+
+Tip stocare	SSD
+Capacitate SSD	128 GB
+Interfata SSD	PCI Express
+
+PLACA VIDEO
+
+Tip placa video	Integrata
+
+MULTIMEDIA
+
+Unitate optica	Nu
+Camera WEB	HD
+Audio	Difuzoare stereo
+Microfon
+
+CONECTIVITATE & PORTURI
+
+Porturi	2 x USB 3.0
+1 x Mini DisplayPort
+Cititor de carduri	SDXC
+Wireless	802.11 ac
+Versiune Bluetooth	4.0
+
+SOFTWARE
+
+Sistem de operare	Mac OS
+
+CARACTERISTICI GENERALE
+
+
+Dimensiuni (W x H x D)	325 x 3 - 17 x 227 mm
+Greutate	1.35 Kg
+Material	Aluminiu
+Autonomie baterie	12 h
