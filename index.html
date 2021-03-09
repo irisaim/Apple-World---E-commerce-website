@@ -4,8 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
-    <link rel="stylesheet" href="style.css">
+    <link rel ="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel ="stylesheet" href="style.css"/>
+    <link rel ="stylesheet" href="/.node_modules/font-awesome/dist/css/font-awesome.min.css"/>
+    <link rel ="stylesheet" href="/.node_modules/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel ="stylesheet" href="/.node_modules/bootswatch/dist/css/bootswatch.min.css"/>
     <title>Apple World</title>
 </head>
 <body>
@@ -14,6 +17,12 @@
         <input type="checkbox" onclick="changeMode()">
         <span class="slider"></span>
       </label>
+      <div class="menu-icons">
+        <i class="fas fa-home" href="index.html"></i>
+        <i class="fas fa-list-ul" href="details.html"></i>
+        <i class="fas fa-shopping-cart" href="cart.html"></i>
+        <i class="fas fa-user-lock" href="admin.html"></i>
+     </div>
         <div class="header">
            <hi><i class="fab fa-apple"></i>Apple World</hi>
            <hr>
@@ -34,40 +43,14 @@
             <span style="--i:7";><img src ="19.jpg"></span>
             <span style="--i:8";><img src ="30.jpg"></span>
         </div>
-        <div class="box2">
-          <ul class="card1">
-              <li></li>
-              <li></li>
-              <li></li>
-          </ul>
-          <ul class="card2">
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
-        <ul class="card3">
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
-        <ul class="card4">
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
-        <ul class="card5">
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
-        <ul class="card6  ">
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
+        <div class="all-items">
+            <div id="title"></div>
+            <img src="css-poze" id="image" class = "card-img">
+            <div id="price"></div>
+            <div id="description"></div>
+            <div id="id"></div>
         </div>
-    
-
+        <div id ="products"></div>
             <div id="footer">
                 <form class="submit">
                     <div class="container-footer">
@@ -80,7 +63,7 @@
                           <input class="btn subscribe" type="submit" value="Subscribe">
                         </div>
                 </form>
-                    <div class="social">
+                    <!-- <div class="social">
                         <ul>
                             <li><a class="social-btn" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
                             <li><a class="social-btn" href="http://www.instagram.com"><i class="fa fa-instagram"></i></a></li>
@@ -89,10 +72,13 @@
                             <li><a class="social-btn" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
                             <li><a class="social-btn" href="http://www.whatsapp.com"><i class="fa fa-whatsapp"></i></a></li>
                         </ul>
-                  </div>
+                  </div> -->
             </div>
     
     </div>
     <script src="app.js"></script>
+    <script src="src/http.js"></script>
+    <script src="src/app.js" type="module"></script>
+    <script src="src/ui.js" type="module"></script>
 </body>
 </html>

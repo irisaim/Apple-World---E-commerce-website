@@ -1,0 +1,214 @@
+{
+"products": [
+    {
+        "id": 1,
+        "title": "iphone12",
+        "image": "css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    }, 
+    {
+        "id": 2,
+        "title": "iphone22",
+        "image": "css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 3,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 4,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 5,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 6,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 7,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 8,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 9,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 10,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 11,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 12,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 13,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 14,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 15,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 16,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 17,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 18,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 19,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 20,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 21,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 22,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 23,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 24,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 25,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 26,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 27,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 28,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 29,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    },
+    {
+        "id": 30,
+        "title": "iphone12",
+        "image": "./css-poze/1.jpg",
+        "price": "1100$",
+        "description": "jksdchksdjgcsd"
+    }
+]
+}
