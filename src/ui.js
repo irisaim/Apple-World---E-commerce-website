@@ -1,5 +1,4 @@
 class UI {
-<<<<<<< HEAD
     constructor() {
         this.productsDiv = document.getElementById('products');
         this.detailsDiv = document.getElementById('products-details');
@@ -10,15 +9,6 @@ class UI {
         this.description = document.getElementById('description');
         this.id = document.getElementById('id');
     }
-=======
-	constructor() {
-		this.productDiv = document.getElementById('products');
-		this.title = document.getElementById('title');
-		this.image = document.getElementById('image');
-		this.price = document.getElementById('price');
-		this.description = document.getElementById('description');
-	}
->>>>>>> f41b6a6deabeb45da503c7fd8cc1bcd650fefa3f
 
 	showProducts(products) {
 		let output = '';
@@ -31,11 +21,9 @@ class UI {
               <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="card-button">Details</button>
               </div>
             `;
-<<<<<<< HEAD
-        });
-        console.log(this.productsDiv);
-        this.productsDiv.innerHTML = output;
-    }
+			this.productsDiv.innerHTML = output;
+		});
+	}
 
     showDetails(product) {
         let output = '';
@@ -67,16 +55,8 @@ class UI {
         </tbody>    
         `;
         this.adminDiv.innerHTML += output;
-    });
-=======
-			this.productDiv.innerHTML = output;
-		});
-	}
->>>>>>> f41b6a6deabeb45da503c7fd8cc1bcd650fefa3f
+        });
+    }
 }
-}
-
-
-
 
 export const ui = new UI();
