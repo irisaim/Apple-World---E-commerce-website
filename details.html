@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel ="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel ="stylesheet" href="style.css"/>
+    <link rel ="stylesheet" href="/.node_modules/font-awesome/dist/css/font-awesome.min.css"/>
+    <!-- <link rel ="stylesheet" href="/.node_modules/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel ="stylesheet" href="/.node_modules/bootswatch/dist/css/bootswatch.min.css"/> -->
+    <title>Apple World</title>
+</head>
+<body>
+    <div id="main-page">
+        <label class="switch">
+        <input type="checkbox" onclick="changeMode()">
+        <span class="slider"></span>
+      </label>
+      <div class="menu-icons">
+        <a href="index.html"><i class="fas fa-home"></i></a>
+        <a href="cart.html"><i class="fas fa-shopping-cart"></i></a>
+        <a href="admin.html"><i class="fas fa-user-lock"></i></a>
+     </div>
+        <div class="header">
+           <hi><i class="fab fa-apple"></i>Apple World</hi>
+           <hr>
+         </div>
+            
+     </div>
+     <div id ="products-details"></div>
+
+               
+            <div id="footer">
+                <div class="submit">
+                    <div class="container-footer">
+                          <h2>Subscribe to our Newsletter</h2>
+                          <input type="text" placeholder="Name" name="name" required>
+                          <input type="text" placeholder="Email address" name="mail" required>
+                          <label>
+                          <input type="checkbox" checked="checked" name="subscribe"> Daily Newsletter
+                          </label>
+                          <input class="btn subscribe" type="submit" value="Subscribe">
+                        </div>
+                    </div>
+                </form>
+    <script src="app.js"></script>
+    <script src="src/details.js" type="module"></script>
+</html>

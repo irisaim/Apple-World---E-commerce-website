@@ -17,16 +17,16 @@ class customHTTPMethods {
 		return data;
 	}
 
-	// async delete(url) {
-	// 	const response = await fetch(url, {
-	// 		method: 'DELETE',
-	// 		headers: {
-	// 			'Content-type': 'application/json',
-	// 		},
-	// 	});
-	// 	const data = await 'Product deleted ...';
-	// 	return data;
-	// }
+	async delete(url) {
+		const response = await fetch(url, {
+			method: 'DELETE',
+			headers: {
+				'Content-type': 'application/json',
+			},
+		});
+		const data = await 'Product deleted ...';
+		return data;
+	}
 }
 
 export const http = new customHTTPMethods();

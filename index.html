@@ -18,43 +18,39 @@
         <span class="slider"></span>
       </label>
       <div class="menu-icons">
-        <i class="fas fa-home" href="index.html"></i>
-        <i class="fas fa-list-ul" href="details.html"></i>
-        <i class="fas fa-shopping-cart" href="cart.html"></i>
-        <i class="fas fa-user-lock" href="admin.html"></i>
+        <a href="index.html"><i class="fas fa-home"></i></a>
+        <a href="cart.html"><i class="fas fa-shopping-cart"></i></a>
+        <a href="admin.html"><i class="fas fa-user-lock"></i></a>
      </div>
         <div class="header">
            <hi><i class="fab fa-apple"></i>Apple World</hi>
            <hr>
-            <div class="menu">
-                <a class="bar" href="index.html">Home</a>
-                <a class="bar" href="details.html">Details</a>
-                <a class="bar" href="cart.html">Cart</a>
-                <a class="bar" href="admin.html">Admin</a>
-              </div>
             </div>
         <div class="box1">
-            <span style="--i:1";><img src ="10.jpg"></span>
-            <span style="--i:2";><img src ="17.jpg"></span>
-            <span style="--i:3";><img src ="18.jpg"></span>
-            <span style="--i:4";><img src ="22.jpg"></span>
-            <span style="--i:5";><img src ="25.jpg"></span>
-            <span style="--i:6";><img src ="28.jpg"></span>
-            <span style="--i:7";><img src ="19.jpg"></span>
-            <span style="--i:8";><img src ="30.jpg"></span>
+            <span style="--i:1";><img src ="animatie-poze/010.jpg"></span>
+            <span style="--i:2";><img src ="animatie-poze/017.jpg"></span>
+            <span style="--i:3";><img src ="animatie-poze/018.jpg"></span>
+            <span style="--i:4";><img src ="animatie-poze/020.jpg"></span>
+            <span style="--i:5";><img src ="animatie-poze/025.jpg"></span>
+            <span style="--i:6";><img src ="animatie-poze/028.jpg"></span>
+            <span style="--i:7";><img src ="animatie-poze/019.jpg"></span>
+            <span style="--i:8";><img src ="animatie-poze/006.jpg"></span>
         </div>
         <div class="all-items">
             <div id="title"></div>
-            <img src="css-poze" id="image" class = "card-img">
+            <div id="image" class = "card-img"></div>
             <div id="price"></div>
             <div id="description"></div>
             <div id="id"></div>
         </div>
         <div id ="products"></div>
+        <video id="commercial" width="320" height="240" controls>
+            <source src="Best Apple Commercials - 2021.mp4" type="video/mp4">
+          </video>
             <div id="footer">
                 <form class="submit">
                     <div class="container-footer">
-                          <h2>Subscribe to my Newsletter</h2>
+                          <h2>Subscribe to our Newsletter</h2>
                           <input type="text" placeholder="Name" name="name" required>
                           <input type="text" placeholder="Email address" name="mail" required>
                           <label>
@@ -63,22 +59,19 @@
                           <input class="btn subscribe" type="submit" value="Subscribe">
                         </div>
                 </form>
-                    <!-- <div class="social">
-                        <ul>
-                            <li><a class="social-btn" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
-                            <li><a class="social-btn" href="http://www.instagram.com"><i class="fa fa-instagram"></i></a></li>
-                            <li><a class="social-btn" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a class="social-btn" href="http://www.github.com"><i class="fa fa-github"></i></a></li>
-                            <li><a class="social-btn" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-                            <li><a class="social-btn" href="http://www.whatsapp.com"><i class="fa fa-whatsapp"></i></a></li>
-                        </ul>
-                  </div> -->
+                    <div class="social-media">
+                            <a class="social-btn" href="http://www.facebook.com"><i class="fab fa-facebook"></i></a>
+                            <a class="social-btn" href="http://www.instagram.com"><i class="fab fa-instagram"></i></a>
+                            <a class="social-btn" href="http://www.linkedin.com"><i class="fab fa-linkedin"></i></a>
+                            <a class="social-btn" href="http://www.github.com"><i class="fab fa-github"></i></a>
+                            <a class="social-btn" href="http://www.skype.com"><i class="fab fa-skype"></i></a>
+                            <a class="social-btn" href="http://www.whatsapp.com"><i class="fab fa-whatsapp"></i></a>
+                  </div>
             </div>
-    
+           
     </div>
     <script src="app.js"></script>
-    <script src="src/http.js"></script>
     <script src="src/app.js" type="module"></script>
-    <script src="src/ui.js" type="module"></script>
+    <script src="src/app.js" type="module"></script>
 </body>
 </html>

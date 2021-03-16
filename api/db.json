@@ -2,213 +2,213 @@
 "products": [
     {
         "id": 1,
-        "title": "iphone12",
+        "title": "iPhone 12",
         "image": "css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "price": "1100 €",
+        "description": "Memory: 128GB, Network: 5G, Software: iOS, Dimension: 71.5 x 146.7 x 7.4 mm, Weight: 164 g"
     }, 
     {
         "id": 2,
-        "title": "iphone22",
-        "image": "css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPhone 12 mini",
+        "image": "css-poze/2.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 64.2 x 131.5 x 7.4 mm, Weight: 135 g"
     },
     {
         "id": 3,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPhone 12 Pro",
+        "image": "css-poze/3.jpg",
+        "price": "1100 €",
+        "description": "Memory: 128GB, Network: 5G, Software: iOS, Dimension: 71.5 x 146.7 x 7.4 mm, Weight: 189 g"
     },
     {
         "id": 4,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPhone 12 Pro Max",
+        "image": "css-poze/4.jpg",
+        "price": "1100 €",
+        "description": "Memory: 256GB, Network: 5G, Software: iOS, Dimension: 78.1 x 160.8 x 7.4 mm, Weight: 228 g"
     },
     {
         "id": 5,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPhone 11",
+        "image": "css-poze/5.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 75.7 x 150.9 x 8.3 mm, Weight: 194 g"
     },
     {
         "id": 6,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": " iPhone 11 Pro",
+        "image": "css-poze/6.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 144 x 71.4 x 8.1 mm, Weight: 188 g"
     },
     {
         "id": 7,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": " iPhone 11 Pro Max",
+        "image": "css-poze/7.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 158 x 77.8 x 8.1 mm, Weight: 226 g"
     },
     {
         "id": 8,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": " iPhone SE 2",
+        "image": "css-poze/8.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 67.3 x 138.4 x 7.3 mm, Weight: 148 g"
     },
     {
         "id": 9,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPhone XS Max",
+        "image": "css-poze/9.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 1157.5 x 77.4 x 7.7 mm, Weight: 208 g"
     },
     {
         "id": 10,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPhone X",
+        "image": "css-poze/10.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 143.6 x 70.9 x 7.7 mm, Weight: 174 g"
     },
     {
         "id": 11,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPhone XS",
+        "image": "css-poze/11.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 143.6 x 70.9 x 7.7 mm, Weight: 177 g"
     },
     {
         "id": 12,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPhone XR",
+        "image": "css-poze/12.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 150.9 x 75.7 x 8.3 mm, Weight: 194 g"
     },
     {
         "id": 13,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPhone 8 Plus",
+        "image": "css-poze/13.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 78.1 x 158.4 x 7.5 mm, Weight: 202 g"
     },
     {
         "id": 14,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": " iPhone 8",
+        "image": "css-poze/14.jpg",
+        "price": "1100 €",
+        "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 144 x 71.4 x 8.1 mm, Weight: 188 g"
     },
     {
         "id": 15,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": " iPhone 7",
+        "image": "css-poze/15.jpg",
+        "price": "1100 €",
+        "description": "Memory: 32GB, Network: 5G, Software: iOS, Dimension: 138.3 x 67.1 x 7.1 mm, Weight: 138 g"
     },
     {
         "id": 16,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "MacBook Pro",
+        "image": "css-poze/16.jpg",
+        "price": "1100 €",
+        "description": "256GB SSD, 13-inch,True Tone, procesor Apple M1, 8 nuclee CPU si 8 nuclee GPU, 8GB, INT KB"
     },
     {
         "id": 17,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "MacBook Pro 16",
+        "image": "css-poze/17.jpg",
+        "price": "1100 €",
+        "description": "Touch Bar, procesor Intel® Core™ i7 2.60 GHz, 16GB, 512GB SSD, Radeon Pro 5300M 4GB, INT KB"
     },
     {
         "id": 18,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "MacBook Air 13",
+        "image": "css-poze/18.jpg",
+        "price": "1100 €",
+        "description": "Intel® Dual Core™ i5 1.80GHz, 13.3, 8GB, 128GB SSD, Intel® HD Graphics 6000, INT KB"
     },
     {
         "id": 19,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "MacBook 12",
+        "image": "css-poze/19.jpg",
+        "price": "1100 €",
+        "description": " Intel® Dual Core™ M3 1.20GHz, Ecran Retina, 8GB, 256GB SSD, Intel® HD Graphics 615, macOS Sierra, INT KB"
     },
     {
         "id": 20,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": " iPad Pro",
+        "image": "css-poze/20.jpg",
+        "price": "1100 €",
+        "description": "12.9 (2020), 128GB, Wi-Fi, iPadOS, weight: 641 g"
     },
     {
         "id": 21,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPad Pro 11",
+        "image": "css-poze/21.jpg",
+        "price": "1100 €",
+        "description": "11 (2020), 256GB, Wi-Fi, iPadOS, weight: 471 g"
     },
     {
         "id": 22,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPad Pro",
+        "image": "css-poze/22.jpg",
+        "price": "1100 €",
+        "description": "9.7 (2021), 32GB, Wi-Fi, iPadOS, weight: 444 g"
     },
     {
         "id": 23,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": " iPad mini 5",
+        "image": "css-poze/23.jpg",
+        "price": "1100 €",
+        "description": "64GB, Wi-Fi, iPadOS, weight: 300.5 g"
     },
     {
         "id": 24,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iPad Air 4",
+        "image": "css-poze/24.jpg",
+        "price": "1100 €",
+        "description": "2020, 64GB, Wi-Fi, iPadOS, weight: 458 g"
     },
     {
         "id": 25,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iWatch 6",
+        "image": "css-poze/25.jpg",
+        "price": "1100 €",
+        "description": "GPS, Aluminium 44mm, Black Sport Band, 32 GB, iOS"
     },
     {
         "id": 26,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iWatch 5",
+        "image": "css-poze/26.jpg",
+        "price": "1100 €",
+        "description": "GPS, Aluminium 44mm, Pink Sand Sport Band - S/M & M/L, iOS"
     },
     {
         "id": 27,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "iWatch SE",
+        "image": "css-poze/27.jpg",
+        "price": "1100 €",
+        "description": "GPS,  Aluminium 44mm, White Sport Band, 32 GB iOS"
     },
     {
         "id": 28,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "AirPods Pro",
+        "image": "css-poze/28.jpg",
+        "price": "1100 €",
+        "description": "Bluetooth 5.0, Baterry life: 4-5h"
     },
     {
         "id": 29,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "AirPods 2",
+        "image": "css-poze/29.jpg",
+        "price": "1100 €",
+        "description": "Bluetooth 5.0, Baterry life: 5-6h, weight: 4 g"
     },
     {
         "id": 30,
-        "title": "iphone12",
-        "image": "./css-poze/1.jpg",
-        "price": "1100$",
-        "description": "jksdchksdjgcsd"
+        "title": "Stylus Pencil",
+        "image": "css-poze/30.jpg",
+        "price": "1100 €",
+        "description": "for iPad Pro, weight: 20.7 g, Bluetooth / Wireless"
     }
 ]
 }
