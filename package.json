@@ -1,45 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "finalprojectjs",
-  "version": "1.0.0",
-  "description": "Final Project | Apple World - Online Ecommerce ",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start-db": "json-server --watch api/db.json",
-    "start": "serve"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/irisaim/FinalProjectJS.git"
-  },
-  "keywords": [
-    "FRONTEND",
-    "|",
-    "SCOALA",
-    "INFORMALA",
-    "|",
-    "HTML",
-    "|",
-    "CSS",
-    "|",
-    "JS",
-    "|"
-  ],
-  "author": "Irina Saim",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/irisaim/FinalProjectJS/issues"
-  },
-  "homepage": "https://github.com/irisaim/FinalProjectJS#readme",
-  "dependencies": {
-    "bootstrap": "^4.6.0",
-    "bootswatch": "^4.6.0",
-    "font-awesome": "^4.7.0",
-    "json-server": "^0.16.3",
-    "serve": "^11.3.2"
-  }
-=======
 	"name": "finalprojectjs",
 	"version": "1.0.0",
 	"description": "Final Project | Apple World - Online Ecommerce ",
@@ -78,5 +37,4 @@
 		"json-server": "^0.16.3",
 		"serve": "^11.3.2"
 	}
->>>>>>> f41b6a6deabeb45da503c7fd8cc1bcd650fefa3f
 }
