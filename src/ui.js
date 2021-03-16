@@ -1,4 +1,5 @@
 class UI {
+<<<<<<< HEAD
     constructor() {
         this.productsDiv = document.getElementById('products');
         this.detailsDiv = document.getElementById('products-details');
@@ -9,11 +10,20 @@ class UI {
         this.description = document.getElementById('description');
         this.id = document.getElementById('id');
     }
+=======
+	constructor() {
+		this.productDiv = document.getElementById('products');
+		this.title = document.getElementById('title');
+		this.image = document.getElementById('image');
+		this.price = document.getElementById('price');
+		this.description = document.getElementById('description');
+	}
+>>>>>>> f41b6a6deabeb45da503c7fd8cc1bcd650fefa3f
 
-    showProducts(products) {
-        let output = '';
-        products.forEach((product) => {
-            output += `
+	showProducts(products) {
+		let output = '';
+		products.forEach((product) => {
+			output += `
             <div class="card">
               <h4 class="card-title">${product.title}</h4>
               <img src="${product.image}" class="card-img">
@@ -21,6 +31,7 @@ class UI {
               <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="card-button">Details</button>
               </div>
             `;
+<<<<<<< HEAD
         });
         console.log(this.productsDiv);
         this.productsDiv.innerHTML = output;
@@ -57,6 +68,11 @@ class UI {
         `;
         this.adminDiv.innerHTML += output;
     });
+=======
+			this.productDiv.innerHTML = output;
+		});
+	}
+>>>>>>> f41b6a6deabeb45da503c7fd8cc1bcd650fefa3f
 }
 }
 
