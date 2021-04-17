@@ -33,8 +33,14 @@
 	"dependencies": {
 		"bootstrap": "^4.6.0",
 		"bootswatch": "^4.6.0",
+		"cart-localstorage": "^1.1.5",
 		"font-awesome": "^4.7.0",
+		"font-face": "^2.3.4",
+		"jquery": "^3.6.0",
 		"json-server": "^0.16.3",
-		"serve": "^11.3.2"
+		"local-storage": "^2.0.0",
+		"query-string": "^5.1.1",
+		"serve": "^11.3.2",
+		"sweetalert2": "^10.16.0"
 	}
 }

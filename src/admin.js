@@ -25,19 +25,23 @@ function getProducts() {
 // 	};
 
 // 	http
-// 		.post('http://localhost:3000/products', product)
-// 		.then((data) => getProducts());
+// 		.post('http://localhost:3000/products')
+// 		// .then((data) => ui.showProducts(data))
+// 		.then((data) => getProducts())
 // }
 
-document.getElementById('products').addEventListener('click', deleteProduct);
 
-function deleteProduct(e) {
-	if (e.target.classList.contains('delete')) {
-		const id = e.target.id;
-		http
-			.delete(`http://localhost:3000/products/${id}`)
-			.then((data) => getProducts())
-			.catch('Error on delete!');
-	}
-}
+
+// document.getElementById('admin').addEventListener('click', deleteProduct);
+
+// function deleteProduct(e) {
+// 	if (e.target.classList.contains('delete')) {
+// 		const id = e.target.id;
+// 		http
+// 			.delete(`http://localhost:3000/products/${id}`)
+// 			// .then((data) => ui.showProducts(data))
+// 			.then((data) => getProducts())
+// 			.catch('Error on delete!');
+// 	}
+// }
 

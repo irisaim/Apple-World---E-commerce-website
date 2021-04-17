@@ -5,10 +5,14 @@ import { ui } from './ui.js';
 window.onload = () => {
 	if (window.location.search !== '') {
 		const id = window.location.search.split('=')[1];
-		http
-					.get(`http://localhost:3000/products/${id}`)
-					.then((data) => ui.showDetails(data))
+		http.get(`http://localhost:3000/products/${id}`)
+		.then((data) => ui.showDetails(data));
 	}
 }
+
+
+
+
+
 
 
