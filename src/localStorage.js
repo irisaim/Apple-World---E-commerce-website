@@ -1,4 +1,4 @@
-// const localStorageKey = "selectedProducts";
+const localStorageKey = "selectedProducts";
 
 class StorageItem {
 	constructor(count, product) {
@@ -13,7 +13,7 @@ export function addProductsInLocalStorage(product, count) {
 	{
 		let storageItem = JSON.parse(storageObject)
 		storageItem.count += count;
-		localStorage.setItem(productId, JSON.stringify(storageItem));
+		localStorage.setItem(product.id, JSON.stringify(storageItem));
 		return;
 	}
 

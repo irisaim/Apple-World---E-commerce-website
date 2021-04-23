@@ -24,7 +24,7 @@ class customHTTPMethods {
 				'Content-type': 'application/json',
 			},
 		});
-		const data = await 'Product deleted ...';
+		const data = await response.json();
 		return data;
 	}
 }

@@ -1,4 +1,4 @@
-import { addProductsInLocalStorage, updateQuantityInLocalStorage, getElementFromLocalStorage, removeElementFromLocalStorage, getCartFromLocalStorage } from './localStorage.js';
+import { addProductsInLocalStorage, updateQuantityInLocalStorage, getElementFromLocalStorage, removeElementFromLocalStorage } from './localStorage.js';
 
 class UI {
     constructor() {
@@ -25,7 +25,7 @@ class UI {
             <div class="card">
               <h4 class="card-title">${product.title}</h4>
               <img src="${product.image}" class="card-img">
-              <h5 class="card-price">${product.price}</h5>
+              <h5 class="card-price">${product.price} €</h5>
               <button onclick="window.location.href='details.html?id=${product.id}'" type="button" class="card-button">Details</button>
               </div>
             `;
@@ -38,12 +38,14 @@ class UI {
 
             output = `
             <div class="details-card">
-              <h2 class="card-title1">${product.title}</h2>
+              <h2 class="card-title1">${product.title}<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"><i class="fas fa-star"></i></i></h2>
               <img src="${product.image}" class="card-img1">
               <h5 class="card-description">${product.description}</h5>
-              <h4 class="card-price1">${product.price}</h4>
+              <h4 class="card-price1">${product.price} €</h4>
               <input id="quantity" type="number" min="1" max="10" value="1">
               <button  id="addProductToCart" type="button" class="card-button">Add to Cart</button>
+              <button onclick="window.location.href='index.html'"  id="continueHome" type="button">Continue shopping</button>
+              <button onclick="window.location.href='cart.html'"  id="continueCart" type="button">See your cart</button>
               </div>
             `;
             this.detailsDiv.innerHTML = output;
@@ -93,26 +95,15 @@ class UI {
                     <tr class="cartRows">
                         <td><img src="${item.product.image}" class="admin-card-img"/></td>
                         <td><button onclick="window.location.href='details.html?id=${item.product.id}'">${item.product.title}</button></td>                       
-                        <td>${item.product.price}</td>
+                        <td>${item.product.price} €</td>
                         <td><input value=${item.count} id="quantity" type="number" min="1" max="10"/></td>
-                        <td id="subtotal"></td>
+                        <td id="subtotal">${item.product.price*item.count} €</td>
                         <td><button id=${item.product.id} type="button" class="card-button delete">Remove product</button></td>
                     </tr>
                 </tbody>   
             </table> 
-            `
-            let subtotal = 0;
-            //  let storageItems = getCartFromLocalStorage();
-            for (let item of storageItems) {
-                let numberOfProducts = parseInt(item.count);
-                let productPrice = parseInt(item.product.price);
-                subtotal = subtotal + numberOfProducts * productPrice;
-                console.log(subtotal);
-                subtotal = subtotal + " " + "€";
-            };
-            
+            `     
             this.cartBody.innerHTML += output;
-            document.getElementById("subtotal").innerHTML = subtotal.toString();
 
         });
               
@@ -127,6 +118,7 @@ class UI {
                 let count = parseInt(e.target.value);
                 if(!isNaN(count) && count > 0) {
                     updateQuantityInLocalStorage(productId, count);
+                    return window.location.reload();
                 } else {
                     let storageElement = getElementFromLocalStorage(productId);
                     e.target.value = storageElement.count;
@@ -136,12 +128,12 @@ class UI {
             removeButton.addEventListener('click', (e) => {
                 removeElementFromLocalStorage(e.target.id);
                 row.remove();
+                    return window.location.reload();
+                });
             });  
-        });
+        }
     }
     
 
-
-    }
  
 export const ui = new UI();
