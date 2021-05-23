@@ -229,11 +229,11 @@ input:checked + .slider:before {
 	margin-top: -130px;
 	margin-left: -130px;
 	top: 25%;
-	left: 15%;
+	left: 45%;
 } */
 
 .card-title {
-  color: black;
+  /* color: black; */
   text-align: center;
   font-size: 20px;
   margin-bottom: 10px;
@@ -250,9 +250,10 @@ input:checked + .slider:before {
 }
 
 .card-price {
-  color: black;
+  align-items: center;
+  /* color: black; */
   font-size: 15px;
-  margin-left: 105px;
+  /* margin-left: 105px; */
   grid-column: 1;
   grid-row: 2 / 5;
 }
