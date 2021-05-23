@@ -250,10 +250,9 @@ input:checked + .slider:before {
 }
 
 .card-price {
-  align-items: center;
   /* color: black; */
   font-size: 15px;
-  /* margin-left: 105px; */
+  margin-left: 210px;
   grid-column: 1;
   grid-row: 2 / 5;
 }
@@ -264,7 +263,7 @@ input:checked + .slider:before {
 }
 
 .card-button {
-  margin-left: 2px;
+  margin-left: 210px;
   grid-column: 3;
   grid-row: 3;
   border: 0;
