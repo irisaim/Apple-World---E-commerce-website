@@ -1,273 +1,273 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "title": "iPhone 12",
       "image": "css-poze/1.jpg",
       "price": "1300",
       "description": "Memory: 128GB, Network: 5G, Software: iOS, Dimension: 71.5 x 146.7 x 7.4 mm, Weight: 164 g"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "iPhone 12 mini",
       "image": "css-poze/2.jpg",
       "price": "1200",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 64.2 x 131.5 x 7.4 mm, Weight: 135 g"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "iPhone 12 Pro",
       "image": "css-poze/3.jpg",
       "price": "1300",
       "description": "Memory: 128GB, Network: 5G, Software: iOS, Dimension: 71.5 x 146.7 x 7.4 mm, Weight: 189 g"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "iPhone 12 Pro Max",
       "image": "css-poze/4.jpg",
       "price": "1300",
       "description": "Memory: 256GB, Network: 5G, Software: iOS, Dimension: 78.1 x 160.8 x 7.4 mm, Weight: 228 g"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "iPhone 11",
       "image": "css-poze/5.jpg",
       "price": "1100",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 75.7 x 150.9 x 8.3 mm, Weight: 194 g"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": " iPhone 11 Pro",
       "image": "css-poze/6.jpg",
       "price": "1000",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 144 x 71.4 x 8.1 mm, Weight: 188 g"
     },
     {
-      "id": 7,
+      "id": "7",
       "title": " iPhone 11 Pro Max",
       "image": "css-poze/7.jpg",
       "price": "1000",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 158 x 77.8 x 8.1 mm, Weight: 226 g"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": " iPhone SE 2",
       "image": "css-poze/8.jpg",
       "price": "1000",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 67.3 x 138.4 x 7.3 mm, Weight: 148 g"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "iPhone XS Max",
       "image": "css-poze/9.jpg",
       "price": "1200",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 1157.5 x 77.4 x 7.7 mm, Weight: 208 g"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "iPhone X",
       "image": "css-poze/10.jpg",
       "price": "1000",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 143.6 x 70.9 x 7.7 mm, Weight: 174 g"
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "iPhone XS",
       "image": "css-poze/11.jpg",
       "price": "1100",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 143.6 x 70.9 x 7.7 mm, Weight: 177 g"
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "iPhone XR",
       "image": "css-poze/12.jpg",
       "price": "900",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 150.9 x 75.7 x 8.3 mm, Weight: 194 g"
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "iPhone 8 Plus",
       "image": "css-poze/13.jpg",
       "price": "900",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 78.1 x 158.4 x 7.5 mm, Weight: 202 g"
     },
     {
-      "id": 14,
+      "id": "14",
       "title": " iPhone 8",
       "image": "css-poze/14.jpg",
       "price": "900",
       "description": "Memory: 64GB, Network: 5G, Software: iOS, Dimension: 144 x 71.4 x 8.1 mm, Weight: 188 g"
     },
     {
-      "id": 15,
+      "id": "15",
       "title": " iPhone 7",
       "image": "css-poze/15.jpg",
       "price": "600",
       "description": "Memory: 32GB, Network: 5G, Software: iOS, Dimension: 138.3 x 67.1 x 7.1 mm, Weight: 138 g"
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "MacBook Pro",
       "image": "css-poze/16.jpg",
       "price": "2100",
       "description": "256GB SSD, 13-inch,True Tone, procesor Apple M1, 8 nuclee CPU si 8 nuclee GPU, 8GB, INT KB"
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "MacBook Pro 16",
       "image": "css-poze/17.jpg",
       "price": "2200",
       "description": "Touch Bar, procesor Intel® Core™ i7 2.60 GHz, 16GB, 512GB SSD, Radeon Pro 5300M 4GB, INT KB"
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "MacBook Air 13",
       "image": "css-poze/18.jpg",
       "price": "1900",
       "description": "Intel® Dual Core™ i5 1.80GHz, 13.3, 8GB, 128GB SSD, Intel® HD Graphics 6000, INT KB"
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "MacBook 12",
       "image": "css-poze/19.jpg",
       "price": "1800",
       "description": " Intel® Dual Core™ M3 1.20GHz, Ecran Retina, 8GB, 256GB SSD, Intel® HD Graphics 615, macOS Sierra, INT KB"
     },
     {
-      "id": 20,
+      "id": "20",
       "title": " iPad Pro",
       "image": "css-poze/20.jpg",
       "price": "800",
       "description": "12.9 (2020), 128GB, Wi-Fi, iPadOS, weight: 641 g"
     },
     {
-      "id": 21,
+      "id": "21",
       "title": "iPad Pro 11",
       "image": "css-poze/21.jpg",
       "price": "800",
       "description": "11 (2020), 256GB, Wi-Fi, iPadOS, weight: 471 g"
     },
     {
-      "id": 22,
+      "id": "22",
       "title": "iPad Pro",
       "image": "css-poze/22.jpg",
       "price": "800",
       "description": "9.7 (2021), 32GB, Wi-Fi, iPadOS, weight: 444 g"
     },
     {
-      "id": 23,
+      "id": "23",
       "title": " iPad mini 5",
       "image": "css-poze/23.jpg",
       "price": "800",
       "description": "64GB, Wi-Fi, iPadOS, weight: 300.5 g"
     },
     {
-      "id": 24,
+      "id": "24",
       "title": "iPad Air 4",
       "image": "css-poze/24.jpg",
       "price": "700",
       "description": "2020, 64GB, Wi-Fi, iPadOS, weight: 458 g"
     },
     {
-      "id": 25,
+      "id": "25",
       "title": "iWatch 6",
       "image": "css-poze/25.jpg",
       "price": "500",
       "description": "GPS, Aluminium 44mm, Black Sport Band, 32 GB, iOS"
     },
     {
-      "id": 26,
+      "id": "26",
       "title": "iWatch 5",
       "image": "css-poze/26.jpg",
       "price": "400",
       "description": "GPS, Aluminium 44mm, Pink Sand Sport Band - S/M & M/L, iOS"
     },
     {
-      "id": 27,
+      "id": "27",
       "title": "iWatch SE",
       "image": "css-poze/27.jpg",
       "price": "300",
       "description": "GPS,  Aluminium 44mm, White Sport Band, 32 GB iOS"
     },
     {
-      "id": 28,
+      "id": "28",
       "title": "AirPods Pro",
       "image": "css-poze/28.jpg",
       "price": "200",
       "description": "Bluetooth 5.0, Baterry life: 4-5h"
     },
     {
-      "id": 29,
+      "id": "29",
       "title": "AirPods 2",
       "image": "css-poze/29.jpg",
       "price": "200",
       "description": "Bluetooth 5.0, Baterry life: 5-6h, weight: 4 g"
     },
     {
-      "id": 30,
+      "id": "30",
       "title": "Stylus Pencil",
       "image": "css-poze/30.jpg",
       "price": "100",
       "description": "for iPad Pro, weight: 20.7 g, Bluetooth / Wireless"
     },
     {
-      "id": 31,
+      "id": "31",
       "title": " iPhone 6",
       "image": "css-poze/31.jpg",
       "price": "300",
       "description": "Memory: 128GB, Network: 4G, Software: iOS, Dimension: 67 x 138.1 x 7.1 mm, Weight: 143 g"
     },
     {
-      "id": 32,
+      "id": "32",
       "title": "iPhone 6S Plus",
       "image": "css-poze/32.jpg",
       "price": "600",
       "description": "Memory: 128GB, Network: 4G, Software: iOS, Dimension: 77.9 x 158.2 x 7.3 mm, Weight: 192 g"
     },
     {
-      "id": 33,
+      "id": "33",
       "title": "Adaptor USB-C-USB",
       "image": "css-poze/33.jpg",
       "price": "100",
       "description": "USB type C - USB 3.0"
     },
     {
-      "id": 34,
+      "id": "34",
       "title": "Adaptor multiport AV digital USB-C",
       "image": "css-poze/34.jpg",
       "price": "1100",
       "description": "Compatible with: iPad Pro 12.9, MacBook Pro, MacBook Air, iPad Pro 11. USB type C, HDMI"
     },
     {
-      "id": 36,
+      "id": "36",
       "title": "Charger 18w Fast Charge + USB cable with lightning",
       "image": "css-poze/36.jpg",
       "price": "20",
       "description": "Type C, 1 m, fast charge"
     },
     {
-      "id": 37,
+      "id": "37",
       "title": "Wireless Charger Magsafe",
       "image": "css-poze/37.jpg",
       "price": "50",
       "description": "Fast charger, round, 1 m"
     },
     {
-      "id": 38,
+      "id": "38",
       "title": "EarPods Lightning",
       "image": "css-poze/38.jpg",
       "price": "20",
       "description": "With cable 500mm, microphone"
     },
     {
-      "id": 39,
+      "id": "39",
       "title": "Desktop PC iMac 27",
       "image": "css-poze/39.jpg",
       "price": "1900",
       "description": "Processor Intel® Core™ i7 3.80GHz, 27, 5K, 8GB, 512GB SSD, Radeon Pro 5500XT 8GB GDDR6, macOS Catalina, INT KB, Magic Keyboard with Numeric Keypad"
     },
     {
-      "id": 40,
+      "id": "40",
       "title": "Mac Mini PC Apple (2020)",
       "image": "css-poze/40.jpg",
       "price": "700",

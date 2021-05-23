@@ -36,6 +36,7 @@
 		"cart-localstorage": "^1.1.5",
 		"font-awesome": "^4.7.0",
 		"font-face": "^2.3.4",
+		"gatsby-cli": "^3.3.0",
 		"jquery": "^3.6.0",
 		"json-server": "^0.16.3",
 		"local-storage": "^2.0.0",
