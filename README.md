@@ -21,3 +21,7 @@ Irina Saim
 ### Live server configurat de noi
 `$ npm install --save`
 `$ npm -g serve`
+
+### Check my project 
+
+https://irinasappleworld.netlify.app/
